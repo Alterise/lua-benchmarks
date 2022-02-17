@@ -1,0 +1,6 @@
+[submodule "sol2"]
+	path = sol2
+	url = https://github.com/ThePhD/sol2.git
+[submodule "LuaBridge3"]
+	path = LuaBridge3
+	url = https://github.com/kunitoki/LuaBridge3.git

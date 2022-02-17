@@ -1,0 +1,42 @@
+Performing LuaBridge3 Benchmark:
+Time elapsed (Increment (Lua)): 85.4452ms
+Time elapsed (Increment (C++)): 685.158ms
+
+Time elapsed (String Argument (Lua)): 187.733ms
+Time elapsed (String Argument (C++)): 711.398ms
+
+Time elapsed (String Const Argument (Lua)): 191.785ms
+Time elapsed (String Const Argument (C++)): 740.246ms
+
+Time elapsed (String View Argument (Lua)): 149.068ms
+Time elapsed (String View Argument (C++)): 725.589ms
+
+Time elapsed (String Char Argument (Lua)): 118.564ms
+Time elapsed (String Char Argument (C++)): 718.35ms
+
+Time elapsed (String Iterator (Lua)): 255.276ms
+Time elapsed (String Iterator (C++)): 728.269ms
+
+Time elapsed (String Const Iterator (Lua)): 257.562ms
+Time elapsed (String Const Iterator (C++)): 756.581ms
+
+Time elapsed (String View Iterator (Lua)): 194.296ms
+Time elapsed (String View Iterator (C++)): 738.581ms
+
+Time elapsed (String Char Iterator (Lua)): 170.795ms
+Time elapsed (String Char Iterator (C++)): 737.091ms
+
+Time elapsed (String Internal Iterator (Lua)): 5.10969ms
+
+Time elapsed (Class passing (Lua)): 141.677ms
+Time elapsed (Class Passing (C++)): 489.28ms
+
+Time elapsed (Class Getting (Lua)): 205.569ms
+Time elapsed (Class Getting (C++)): 507.022ms
+
+Time elapsed (Class method call (Base Class)): 154.02ms
+Time elapsed (Class method call (Derived Overwritten Class)): 155.294ms
+Time elapsed (Class method call (Derived Not Overwritten Class)): 248.309ms
+
+Time elapsed (Class field access (Base Class)): 181.451ms
+Time elapsed (Class field access (Derived Class)): 283.496ms
