@@ -1,7 +1,5 @@
 # Benchmarks:
 
-\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ 
-
 Performing Sol3 Benchmark:
 Time elapsed (Increment (Lua)): 225.012ms
 Time elapsed (Increment (C++)): 210.341ms
@@ -45,8 +43,7 @@ Time elapsed (Class method call (Derived Not Overwritten Class)): 1672.24ms
 Time elapsed (Class field access (Base Class)): 837.028ms
 Time elapsed (Class field access (Derived Class)): 1512.29ms
 
-\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ 
-
+\\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ 
 
 Performing LuaBridge3 Benchmark:
 Time elapsed (Increment (Lua)): 85.4452ms
